@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Mar  9 19:56:43 2021
 
-@author: Aniruddha
-"""
 
 class perceptron():
     
